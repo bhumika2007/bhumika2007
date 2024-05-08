@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bhumika
 - ✌️Enjoy to do programming and sharing knowledge
 -  ❤️Love to write code and learn new features
-- 🌱 I’m currently learning the basic languages: C,C++,JAVA
+- 🌱 I’m currently learning the basic languages: C,C++,JAVA,Python
 <!--- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - ⚡ Fun fact: ... -->
